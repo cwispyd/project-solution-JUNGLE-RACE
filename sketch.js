@@ -10,7 +10,7 @@ function preload() {
   backgroundImage = loadImage("./assets/background.jpg");
   animal1_img = loadImage("../assets/animal1.png");
   animal2_img = loadImage("../assets/animal2.png");
-  track = loadImage("../assets/track.jpg");
+  track = loadImage("../assets/track.png");
   bushImage = loadImage("./assets/bush.png");
  grassImage = loadImage("./assets/grass.png");
 }
